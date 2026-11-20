@@ -16,3 +16,10 @@ The experiments focused on task success, response times, object grounding, and c
 These were exploratory experiments rather than a controlled benchmark.
 
 **Tools:** Python, ROS 2, Docker, Ollama, vision-language models, Franka FR3.
+
+
+
+https://github.com/user-attachments/assets/848be37c-d137-48f5-ba14-b18db3228
+
+
+
